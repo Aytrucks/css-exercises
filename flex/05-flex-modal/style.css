@@ -58,14 +58,12 @@ body {
 .header{
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding-bottom: 10px;
+
   padding-top: 10px;
   font-size: large;
 }
 
 .text{
-  padding-top: 10px;
   padding-bottom: 10px;
 }
 
